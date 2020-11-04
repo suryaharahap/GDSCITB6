@@ -11,7 +11,7 @@ Developer Student Clubs are university-based community groups for students inter
 
 - <a href="https://github.com/malif-py">Muhammad Alif Putra Yasa</a>
 - sam.marhaendrap@gmail.com
-- fachrydennisheraldi@gmail.com
+- <a href="https://github.com/dennisheraldi">Fachry Dennis Heraldi</a>
 - raihan.astrada@gmail.com
 - hryemima@gmail.com
 - girvinjunod@gmail.com
