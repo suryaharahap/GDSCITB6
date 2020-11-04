@@ -1,11 +1,13 @@
 # GDSCITB6
-Github collaboration with Group 6 - <a href="https://dsc.community.dev/institut-teknologi-bandung/">Google Developer Student Clubs ITB </a>
+<h4>
+  Github collaboration with Group 6 - <a href="https://dsc.community.dev/institut-teknologi-bandung/">Google Developer Student Clubs ITB </a> 
+</h4>
 
 Helping students bridge the gap between theory and practice.
 
 Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 
-<h3>List Member</h3>
+<h4>List Member</h4>
 
 - malifputrayasa@gmail.com
 - sam.marhaendrap@gmail.com
@@ -15,7 +17,7 @@ Developer Student Clubs are university-based community groups for students inter
 - girvinjunod@gmail.com
 - 13519077@std.stei.itb.ac.id
 - wifalinola74@gmail.com
-- suryaharahap18@gmail.com
+- Surya Harahap
 - 13519010@std.stei.itb.ac.id
 - rifqimatondang@gmail.com
 - geraldabraham16@gmail.com
