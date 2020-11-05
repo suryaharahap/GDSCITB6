@@ -22,7 +22,7 @@ Developer Student Clubs are university-based community groups for students inter
 - rifqimatondang@gmail.com
 - geraldabraham16@gmail.com
 - iftikariffat@gmail.com
-- farhan.yusufakbar02@gmail.com
+- <a href="https://github.com/farhanyusuf">Farhan Yusuf Akbar </a>
 - azmi.alfatihs@gmail.com
 - novanindipradana@gmail.com
 - <a href="https://github.com/rufffi">Ruffi Chiantama</a>
